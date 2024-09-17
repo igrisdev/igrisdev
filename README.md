@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 
 # 💫 About Me:
-🌱 I’m currently learning PHP, PHPRunner<br><br>👨‍💻 All of my projects are available at https://portfolio-igrisdev.vercel.app<br><br>💬 Ask me about Astro, React<br><br>📫 How to reach me johan.manuel.alvarez.pinta@gmail.com
+🌱 I’m currently learning Angular<br><br>👨‍💻 All of my projects are available at https://portfolio-igrisdev.vercel.app<br><br>💬 Ask me about Astro, React<br><br>📫 How to reach me johan.manuel.alvarez.pinta@gmail.com
 
 
 ## 🌐 Socials:
