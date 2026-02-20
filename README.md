@@ -1,28 +1,60 @@
-<h1 align="center">Hi 👋, I'm Johan Alvarez</h1>
-<h3 align="center">A passionate frontend developer from Colombia</h3>
+# Hi 👋, I'm Johan Alvarez
+### Ingeniero Informático | Desarrollador Full Stack
 
-# 💫 About Me:
-🌱 I’m currently learning Angular<br><br>👨‍💻 All of my projects are available at https://portfolio-igrisdev.vercel.app<br><br>💬 Ask me about Astro, React<br><br>📫 How to reach me johan.manuel.alvarez.pinta@gmail.com
-
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/igris#4563) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/johan-alvarez-pinta)
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/React-CA4245?style=for-the-badge&logo=react&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-# 📊 GitHub Stats:
-<!--
-![](https://github-readme-stats.vercel.app/api?username=igrisdev&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=igrisdev&theme=nightowl&hide_border=false)<br/>
--->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=igrisdev&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<!--
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=igrisdev&theme=radical&no-frame=true&no-bg=false&margin-w=4)
--->
+Desarrollador Full Stack con formación en Ingeniería Informática (titulación en trámite) y más de 2 años construyendo aplicaciones web escalables y funcionales. Especializado en el ecosistema JavaScript/TypeScript, con experiencia demostrable en frontend (React, Astro, Next.js) y backend (Express, Strapi 5). Capacidad probada para el consumo y diseño de APIs REST, así como en la gestión de bases de datos relacionales y no relacionales (MongoDB, MySQL, Oracle SQL). Combino sólidos fundamentos en arquitectura de software y POO con una mentalidad colaborativa y de aprendizaje continuo.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=igrisdev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🛠️ Tech Stack
+
+| Frontend | Backend & DB | Herramientas |
+| :--- | :--- | :--- |
+| **JavaScript / TypeScript** | **Node.js (Express)** | Git / GitHub |
+| **React / Next.js / Astro** | **Strapi 5** | Vercel / Netlify |
+| **TailwindCSS** | **MongoDB / MySQL** | Docker |
+| **Flutter** | **Oracle SQL** | GSAP |
+
+---
+
+### 🚀 Experiencia Destacada
+
+**Semillero Pixel** | *Desarrollador Full Stack* (Dic 2025 - Feb 2026)
+* Desarrollo de blog institucional con **Astro**, TailwindCSS y GSAP.
+* Integración de **Notion API** para gestión de contenido autónomo.
+* Despliegue y optimización en Vercel.
+
+**Jake Tienda Electrónica** | *Desarrollador Full Stack* (Jun 2025 - Dic 2025)
+* Liderazgo de E-commerce completo con **Next.js** y **Shopify API**.
+* Diseño de interfaces enfocadas en conversión y aumento de ganancias.
+
+**Institución Universitaria Colegio Mayor del Cauca** | *Desarrollador Frontend* (Dic 2025 - Feb 2026)
+* Desarrollo de App Móvil con **Flutter** para situaciones de emergencia.
+* Integración con backend en **.NET 8** mediante APIs REST.
+
+**JBL Popayán** | *Desarrollador Full Stack* (Ago 2025 - Sep 2025)
+* Implementación de plataforma e-commerce con Next.js y Shopify API.
+
+---
+
+### 🎓 Educación y Certificaciones
+
+* **Ingeniería Informática** - Institución Universitaria Colegio Mayor del Cauca (En curso)
+* **Técnico en Desarrollo de Software** - Institución Educativa Técnico Industrial
+* **Certificado JavaScript: Manipulación del DOM** - Platzi (2024)
+
+---
+
+### 📊 GitHub Stats
+![Tus Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=igrisdev&show_icons=true&theme=dark)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=igrisdev&layout=compact&theme=dark)
+
+---
+
+### 📫 Contacto & Redes
+* **Web:** [www.johan-alvarez.com](https://www.johan-alvarez.com)
+* **Email:** [johan.manuel.alvarez.pinta@gmail.com](mailto:johan.manuel.alvarez.pinta@gmail.com)
+* **LinkedIn:** [Johan Alvarez](https://linkedin.com/in/tu-usuario)
+* **Ubicación:** Popayán, Colombia 🇨🇴
+
+---
+*“Aprendizaje rápido, eficiente y con mentalidad de trabajo en equipo.”*
