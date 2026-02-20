@@ -1,3 +1,4 @@
+
 # 👋 JOHAN MANUEL ALVAREZ PINTA
 ### INGENIERO INFORMÁTICO, DESARROLLADOR FULL STACK
 
@@ -60,3 +61,7 @@ Desarrollador Full Stack con formación en Ingeniería Informática (titulación
 * **LinkedIn:** [Johan Alvarez](https://www.linkedin.com/in/johan-alvarez-pinta)
 * **Ubicación:** Popayán, Colombia 🇨🇴
 * **Portfolio Web:** [Johan-Alvarez](http://www.johan-alvarez.vercel.app)
+
+---
+
+### 📫 Mis Desarrollos mas importantes estan en privado
