@@ -1,4 +1,4 @@
-# Hi 👋, I'm Johan Alvarez
+# 👋 Johan Manuel Alvarez Pinta
 ### Ingeniero Informático | Desarrollador Full Stack
 
 Desarrollador Full Stack con formación en Ingeniería Informática (titulación en trámite) y más de 2 años construyendo aplicaciones web escalables y funcionales. Especializado en el ecosistema JavaScript/TypeScript, con experiencia demostrable en frontend (React, Astro, Next.js) y backend (Express, Strapi 5). Capacidad probada para el consumo y diseño de APIs REST, así como en la gestión de bases de datos relacionales y no relacionales (MongoDB, MySQL, Oracle SQL). Combino sólidos fundamentos en arquitectura de software y POO con una mentalidad colaborativa y de aprendizaje continuo.
