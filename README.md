@@ -38,7 +38,7 @@ Desarrollador Full Stack con formación en Ingeniería Informática (titulación
 | :--- | :--- |
 | **HTML / CSS / JavaScript** | **Express / Strapi 5** |
 | **TypeScript / React / Next JS** | **Mongo DB / MySQL** |
-| **TailwindCSS / Astro** | **Oracle SQL / Flutter** |
+| **TailwindCSS / Astro / Flutter** | **Oracle SQL** |
 
 ---
 
