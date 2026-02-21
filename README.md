@@ -64,4 +64,4 @@ Desarrollador Full Stack con formación en Ingeniería Informática (titulación
 
 ---
 
-### 🧨 Mis Desarrollos mas importantes estan en privado
+### Trabajo de desarrollo con cliente (privacidad de la información)
