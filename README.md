@@ -9,26 +9,26 @@ Desarrollador Full Stack con formación en Ingeniería Informática (titulación
 ### 🚀 Experiencia Práctica
 
 **Semillero Pixel** | *Desarrollador Full Stack* (DIC 2025 - FEB 2026)
-* Diseñó y desarrolló un blog institucional utilizando Astro, TailwindCSS y GSAP, enfocado en rendimiento y experiencia de usuario.
-* Integró la API de Notion para permitir a la cliente gestionar el contenido del blog de forma autónoma y en tiempo real.
-* Desplegó la aplicación en Vercel, garantizando su disponibilidad en producción.
-* Tradujo requerimientos del cliente en una solución técnica funcional mediante comunicación directa y efectiva.
+* Diseño y desarrollo de un blog institucional utilizando Astro, TailwindCSS y GSAP, enfocado en rendimiento y experiencia de usuario.
+* Integración de API de Notion para permitir al cliente gestionar el contenido del blog de forma autónoma y en tiempo real.
+* Despliegue de la aplicación en Vercel, garantizando su disponibilidad en producción.
+* Traducción de requerimientos del cliente en una solución técnica funcional mediante comunicación directa y efectiva.
 
 **Jake Tienda Electrónica** | *Desarrollador Full Stack* (JUN 2025 - DIC 2025)
-* Lideró el desarrollo completo de ecommerce con Next.js y TailwindCSS, desde el diseño hasta el despliegue en Vercel.
-* Integró la API de Shopify para sincronización en tiempo real de catálogo, inventario y pagos.
-* Diseñó interfaces optimizadas para conversión, contribuyendo directamente al aumento de ganancias del cliente.
+* Lider de desarrollo de ecommerce con Next.js y TailwindCSS, desde el diseño hasta el despliegue en Vercel.
+* Integración de la API de Shopify para sincronizar en tiempo real el catálogo, inventario y pagos.
+* Diseño de interfaces optimizadas para conversión, contribuyendo directamente al aumento de ganancias del cliente.
 
 **Institución Universitaria Colegio Mayor del Cauca** | *Desarrollador Front End* (DIC 2025 - FEB 2026)
-* Diseñó interfaces móviles intuitivas y de rápida navegación, optimizadas para situaciones de emergencia donde la velocidad de interacción es crítica.
-* Desarrolló el front-end de la aplicación móvil utilizando Flutter, garantizando una experiencia nativa y consistente en dispositivos Android e iOS.
-* Integró la aplicación móvil con la API REST desarrollada por el equipo de backend en .NET 8, asegurando la correcta sincronización de datos y notificaciones en tiempo real.
-* Participó en el despliegue del backend dockerizado en Contabo, facilitando su portabilidad y escalabilidad en entornos de producción.
+* Diseño de interfaces móviles intuitivas y de rápida navegación, optimizadas para situaciones de emergencia donde la velocidad de interacción es critica.
+* Desarrollo del front-end de la aplicación móvil utilizando Flutter, garantizando una experiencia nativa y consistente en dispositivos Android.
+* Integración de la aplicación móvil con la API REST desarrollada por el equipo de backend en .NET 8, asegurando la correcta sincronización de datos y notificaciones en tiempo real.
+* Participación en el despliegue del backend dockerizado en Contabo, facilitando su portabilidad y escalabilidad en entornos de producción.
 
 **JBL Popayán** | *Desarrollador Full Stack* (AGO 2025 - SEP 2025)
-* Desarrolló plataforma ecommerce para distribuidor autorizado JBL utilizando Next.js y TailwindCSS.
-* Implementó integración con API de Shopify para gestión de productos y procesamiento de pagos.
-* Desplegó la aplicación en Netlify con estrategias de renderizado optimizadas para rendimiento y SEO.
+* Desarrollo de ecommerce para un distribuidor autorizado de JBL utilizando Next.js y TailwindCSS.
+* Implementación de la API de Shopify para gestionar productos y procesar pagos.
+* Despliegue de la aplicación en Netlify con estrategias de renderizado optimizadas para rendimiento y SEO.
 
 ---
 
