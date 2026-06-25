@@ -2,7 +2,7 @@
 # 👋 JOHAN MANUEL ALVAREZ PINTA
 ### INGENIERO INFORMÁTICO, DESARROLLADOR FULL STACK
 
-Desarrollador Full Stack con formación en Ingeniería Informática (titulación en trámite) y más de 2 años construyendo aplicaciones web escalables y funcionales. Especializado en el ecosistema JavaScript/TypeScript, con experiencia demostrable en frontend (React, Astro, Next.js) y backend (Express, Strapi 5). Conocimientos en pruebas unitarias con Vitest. Capacidad probada para el consumo y diseño de APIs REST, así como en la gestión de bases de datos relacionales y no relacionales (MongoDB, MySQL, Oracle SQL).
+Profesional Ingeniero Informático (Desarrollador Full Stack) con más de 2 años construyendo aplicaciones web escalables y funcionales. Especializado en el ecosistema JavaScript/TypeScript, con experiencia demostrable en frontend (React, Astro, Next.js) y backend (Express, Strapi 5). Conocimientos en pruebas unitarias con Vitest. Capacidad probada para el consumo y diseño de APIs REST, así como en la gestión de bases de datos relacionales y no relacionales (MongoDB, MySQL, Oracle SQL).
 
 ---
 
@@ -24,11 +24,6 @@ Desarrollador Full Stack con formación en Ingeniería Informática (titulación
 * Desarrollo del front-end de la aplicación móvil utilizando Flutter, garantizando una experiencia nativa y consistente en dispositivos Android.
 * Integración de la aplicación móvil con la API REST desarrollada por el equipo de backend en .NET 8, asegurando la correcta sincronización de datos y notificaciones en tiempo real.
 * Participación en el despliegue del backend dockerizado en Contabo, facilitando su portabilidad y escalabilidad en entornos de producción.
-
-**JBL Popayán** | *Desarrollador Full Stack* (AGO 2025 - SEP 2025)
-* Desarrollo de ecommerce para un distribuidor autorizado de JBL utilizando Next.js y TailwindCSS.
-* Implementación de la API de Shopify para gestionar productos y procesar pagos.
-* Despliegue de la aplicación en Netlify con estrategias de renderizado optimizadas para rendimiento y SEO.
 
 ---
 
