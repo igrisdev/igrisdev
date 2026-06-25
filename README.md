@@ -13,11 +13,7 @@
 
 ## 👨‍💻 Sobre mí
 
-Profesional Ingeniero Informático (Desarrollador Full Stack) con más de **2 años** construyendo aplicaciones web escalables y funcionales.
-
-Especializado en el ecosistema **JavaScript/TypeScript**, con experiencia demostrable en frontend (**React, Astro, Next.js**) y backend (**Express, Strapi 5**).
-
-Cuento con conocimientos en pruebas unitarias con **Vitest**, consumo y diseño de **APIs REST**, además de experiencia trabajando con bases de datos relacionales y no relacionales (**MongoDB, MySQL y Oracle SQL**).
+Profesional Ingeniero Informático (Desarrollador Full Stack) con más de **2 años** construyendo aplicaciones web escalables y funcionales. Especializado en el ecosistema **JavaScript/TypeScript**, con experiencia demostrable en frontend (**React, Astro, Next.js**) y backend (**Express, Strapi 5**). Cuento con conocimientos en pruebas unitarias con **Vitest**, consumo y diseño de **APIs REST**, además de experiencia trabajando con bases de datos relacionales y no relacionales (**MongoDB, MySQL y Oracle SQL**).
 
 ---
 
