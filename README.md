@@ -1,62 +1,148 @@
+# Hola, soy Johan Manuel Álvarez Pinta 👋
 
-# 👋 JOHAN MANUEL ALVAREZ PINTA
-### INGENIERO INFORMÁTICO, DESARROLLADOR FULL STACK
+**Ingeniero Informático | Desarrollador Full Stack**
 
-Profesional Ingeniero Informático (Desarrollador Full Stack) con más de 2 años construyendo aplicaciones web escalables y funcionales. Especializado en el ecosistema JavaScript/TypeScript, con experiencia demostrable en frontend (React, Astro, Next.js) y backend (Express, Strapi 5). Conocimientos en pruebas unitarias con Vitest. Capacidad probada para el consumo y diseño de APIs REST, así como en la gestión de bases de datos relacionales y no relacionales (MongoDB, MySQL, Oracle SQL).
+📍 Cali, Colombia
 
----
-
-### 🚀 Experiencia Práctica
-
-**Semillero Pixel** | *Desarrollador Full Stack* (DIC 2025 - FEB 2026)
-* Diseño y desarrollo de un blog institucional utilizando Astro, TailwindCSS y GSAP, enfocado en rendimiento y experiencia de usuario.
-* Integración de API de Notion para permitir al cliente gestionar el contenido del blog de forma autónoma y en tiempo real.
-* Despliegue de la aplicación en Vercel, garantizando su disponibilidad en producción.
-* Traducción de requerimientos del cliente en una solución técnica funcional mediante comunicación directa y efectiva.
-
-**Jake Tienda Electrónica** | *Desarrollador Full Stack* (JUN 2025 - DIC 2025)
-* Lider de desarrollo de ecommerce con Next.js y TailwindCSS, desde el diseño hasta el despliegue en Vercel.
-* Integración de la API de Shopify para sincronizar en tiempo real el catálogo, inventario y pagos.
-* Diseño de interfaces optimizadas para conversión, contribuyendo directamente al aumento de ganancias del cliente.
-
-**Institución Universitaria Colegio Mayor del Cauca** | *Desarrollador Front End* (DIC 2025 - FEB 2026)
-* Diseño de interfaces móviles intuitivas y de rápida navegación, optimizadas para situaciones de emergencia donde la velocidad de interacción es critica.
-* Desarrollo del front-end de la aplicación móvil utilizando Flutter, garantizando una experiencia nativa y consistente en dispositivos Android.
-* Integración de la aplicación móvil con la API REST desarrollada por el equipo de backend en .NET 8, asegurando la correcta sincronización de datos y notificaciones en tiempo real.
-* Participación en el despliegue del backend dockerizado en Contabo, facilitando su portabilidad y escalabilidad en entornos de producción.
-
----
-
-### 🛠️ Habilidades Técnicas
-
-| Frontend | Backend & DB |
-| :--- | :--- |
-| **HTML / CSS / JavaScript** | **Express / Strapi 5** |
-| **TypeScript / React / Next JS** | **Mongo DB / MySQL** |
-| **TailwindCSS / Astro / Flutter** | **Oracle SQL** |
-
----
-
-### 🧠 Aptitudes
-* **Colaborador** y **Trabajo en equipo**.
-* **Eficiente** con **Comunicación acertada**.
-* **Aprendizaje Rápido**.
-
----
-
-### 🎓 Educación y Certificaciones
-* **Ingeniería Informática** - Institución Universitaria Colegio Mayor del Cauca (2021 - En curso).
-* **Técnico en Desarrollo de Software** - Institución Educativa Técnico Industrial (2019 - 2020).
-* **JavaScript: Manipulación del DOM** - Platzi (17/11/24).
-
----
-
-### 📫 Contacto & Redes
 * **Email:** [johan.manuel.alvarez.pinta@gmail.com](mailto:johan.manuel.alvarez.pinta@gmail.com)
+* **GitHub:** [igrisdev](https://github.com/igrisdev)
 * **LinkedIn:** [Johan Alvarez](https://www.linkedin.com/in/johan-alvarez-pinta)
-* **Ubicación:** Popayán, Colombia 🇨🇴
 * **Portfolio Web:** [Johan-Alvarez](http://www.johan-alvarez.vercel.app)
 
 ---
 
-### Trabajo de desarrollo con cliente (privacidad de la información)
+## 👨‍💻 Sobre mí
+
+Profesional Ingeniero Informático (Desarrollador Full Stack) con más de **2 años** construyendo aplicaciones web escalables y funcionales.
+
+Especializado en el ecosistema **JavaScript/TypeScript**, con experiencia demostrable en frontend (**React, Astro, Next.js**) y backend (**Express, Strapi 5**).
+
+Cuento con conocimientos en pruebas unitarias con **Vitest**, consumo y diseño de **APIs REST**, además de experiencia trabajando con bases de datos relacionales y no relacionales (**MongoDB, MySQL y Oracle SQL**).
+
+---
+
+# 🚀 Tecnologías
+
+## Frontend
+
+- React
+- Next.js
+- Astro
+- JavaScript
+- TypeScript
+- Tailwind CSS
+
+## Backend
+
+- Express
+- Strapi 5
+- Spring Boot
+
+## Bases de datos
+
+- MongoDB
+- MySQL
+- Oracle SQL
+
+## Testing
+
+- Vitest
+
+---
+
+# 💼 Experiencia
+
+## Institución Universitaria Colegio Mayor del Cauca
+
+**Desarrollador Full Stack & DevOps**
+
+**Marzo 2025 – Junio 2026**
+
+- Desarrollé de extremo a extremo una plataforma web multirol diseñada para centralizar, gestionar y exponer el talento y los portafolios académicos de los estudiantes.
+- Arquitecturé el sistema utilizando Next.js 16, React 19 y PostgreSQL, implementando un buscador de talento interactivo optimizado con animaciones GSAP, estado global mediante Zustand y validaciones con Zod.
+- Implementé una infraestructura de nube privada sobre un VPS (Hostinger) utilizando Dokploy, automatizando el despliegue continuo (CI/CD) con GitHub Actions y gestionando contenedores Docker detrás de un proxy inverso Nginx.
+
+---
+
+## Macshop
+
+**Líder de Desarrollo Full Stack**
+
+**Enero 2026 – Mayo 2026**
+
+- Dirigí la reingeniería completa de la tienda, reemplazando una infraestructura obsoleta por una aplicación moderna, rápida y altamente personalizada.
+- Desarrollé componentes modulares con Next.js y Shopify enfocados en mejorar los Core Web Vitals y la velocidad de carga.
+- Automaticé el despliegue continuo en Vercel e integré Wompi, logrando un entorno seguro con una disponibilidad del **99.9%**.
+
+---
+
+## Equimas
+
+**Líder de Desarrollo Full Stack**
+
+**Diciembre 2025 – Abril 2026**
+
+- Co-lideré el desarrollo desde cero de la plataforma, transformando los requerimientos del cliente en interfaces modernas y adaptables.
+- Integré Next.js con la API de Shopify, optimizando el rendimiento frontend hasta superar el **90%** en Lighthouse.
+- Implementé despliegues automatizados en Vercel con pagos mediante Wompi, validando continuamente los avances para garantizar estabilidad en producción.
+
+---
+
+## Jake Tienda Electrónica
+
+**Desarrollador Full Stack**
+
+**Junio 2025 – Diciembre 2025**
+
+- Lideré un equipo de dos desarrolladores Full Stack bajo metodologías ágiles con sprints semanales, coordinando requerimientos y entregas constantes con el cliente.
+- Diseñé una arquitectura Headless utilizando Next.js y Shopify API sobre Vercel, reemplazando un sistema anterior por una solución tolerante a fallos.
+- Integré la pasarela de pagos Wompi y optimicé el proceso de checkout, procesando con éxito más de **$35 millones** en ventas durante los primeros cinco meses sin caídas del sistema.
+
+---
+
+# 🎓 Educación
+
+### Ingeniería Informática
+
+**Institución Universitaria Colegio Mayor del Cauca**
+
+**2021 – 2026** · Popayán
+
+### Técnico en Desarrollo de Software
+
+**Institución Educativa Técnico Industrial**
+
+**2019 – 2020**
+
+---
+
+# 📜 Certificaciones
+
+### JavaScript: Manipulación del DOM
+
+**Platzi**
+
+17 de noviembre de 2024
+
+### Seminario en Inteligencia Artificial y Paisajes Sonoro AI-{PS}
+
+**Institución Universitaria Colegio Mayor del Cauca**
+
+1 de junio de 2024
+
+---
+
+# 🌎 Idiomas
+
+- 🇪🇸 Español — Idioma nativo
+- 🇺🇸 Inglés — Intermedio (A2)
+
+---
+
+# 🤝 Aptitudes
+
+- Liderazgo
+- Pensamiento estratégico
+- Trabajo en equipo
+- Orientación a resultados
+- Innovación
