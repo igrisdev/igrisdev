@@ -7,7 +7,7 @@
 * **Email:** [johan.manuel.alvarez.pinta@gmail.com](mailto:johan.manuel.alvarez.pinta@gmail.com)
 * **GitHub:** [igrisdev](https://github.com/igrisdev)
 * **LinkedIn:** [Johan Alvarez](https://www.linkedin.com/in/johan-alvarez-pinta)
-* **Portfolio Web:** [Johan-Alvarez](https://www.johan-alvarez.vercel.app)
+* **Portfolio Web:** [Johan-Alvarez](https://johan-alvarez.vercel.app)
 
 ---
 
